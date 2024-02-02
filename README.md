@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Macadamandi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning JS
-Wish me luck, I'm determined!
+- Wish me luck, I'm determined!
 
 <!---
 Macadamandi/Macadamandi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
