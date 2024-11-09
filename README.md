@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Macadamandi
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JS
-- Wish me luck, I'm determined!
+- 👀 I'm web applications developer
+- 🌱 My basicly language is JavaScript and using React.js library
 
 You can view the landing page in repositories
 <!---
